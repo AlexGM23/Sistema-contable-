@@ -1,0 +1,111 @@
+Codigo,Nombre,Tipo,Saldo
+1.01.01,"Efectivo",ACTIVO CIRCULANTE,0.0
+1.01.02,"Caja",ACTIVO CIRCULANTE,0.0
+1.01.03,"Fondos de caja",ACTIVO CIRCULANTE,0.0
+1.01.04,"Bancos",ACTIVO CIRCULANTE,0.0
+1.01.05,"Instrumentos financieros",ACTIVO CIRCULANTE,0.0
+1.01.06,"Clientes",ACTIVO CIRCULANTE,0.0
+1.01.07,"Documentos por cobrar",ACTIVO CIRCULANTE,0.0
+1.01.08,"Deudores",ACTIVO CIRCULANTE,0.0
+1.01.09,"Funcionarios y empleados",ACTIVO CIRCULANTE,0.0
+1.01.10,"IVA acreditable",ACTIVO CIRCULANTE,0.0
+1.01.11,"IVA pendiente de acreditar",ACTIVO CIRCULANTE,0.0
+1.01.12,"Anticipo de impuestos",ACTIVO CIRCULANTE,0.0
+1.01.13,"Inventarios",ACTIVO CIRCULANTE,0.0
+1.01.14,"Mercancías en tránsito",ACTIVO CIRCULANTE,0.0
+1.01.15,"Anticipo a proveedores",ACTIVO CIRCULANTE,0.0
+1.01.16,"Papelería y útiles",ACTIVO CIRCULANTE,0.0
+1.01.17,"Propaganda y publicidad pagada por anticipado",ACTIVO CIRCULANTE,0.0
+1.01.18,"Primas de seguros y fianzas pagadas por anticipado",ACTIVO CIRCULANTE,0.0
+1.01.19,"Rentas pagadas por anticipado",ACTIVO CIRCULANTE,0.0
+1.01.20,"Intereses pagados por anticipado",ACTIVO CIRCULANTE,0.0
+1.01.21,"Otros activos circulantes",ACTIVO CIRCULANTE,0.0
+1.02.01,"Terrenos",ACTIVO NO CIRCULANTE,0.0
+1.02.02,"Edificios",ACTIVO NO CIRCULANTE,0.0
+1.02.03,"Maquinaria",ACTIVO NO CIRCULANTE,0.0
+1.02.04,"Mobiliario y equipo de oficina",ACTIVO NO CIRCULANTE,0.0
+1.02.05,"Muebles y enseres",ACTIVO NO CIRCULANTE,0.0
+1.02.06,"Equipo de transporte",ACTIVO NO CIRCULANTE,0.0
+1.02.07,"Equipo de entrega y reparto",ACTIVO NO CIRCULANTE,0.0
+1.02.08,"Equipo de cómputo",ACTIVO NO CIRCULANTE,0.0
+1.02.09,"Inmuebles no utilizados",ACTIVO NO CIRCULANTE,0.0
+1.02.10,"Otros activos no circulantes",ACTIVO NO CIRCULANTE,0.0
+1.02.11,"Depreciación acumulada de edificios",ACTIVO NO CIRCULANTE,0.0
+1.02.12,"Depreciación acumulada de maquinaria",ACTIVO NO CIRCULANTE,0.0
+1.02.13,"Depreciación acumulada de mobiliario y equipo de oficina",ACTIVO NO CIRCULANTE,0.0
+1.02.14,"Depreciación acumulada de equipo de transporte",ACTIVO NO CIRCULANTE,0.0
+1.02.15,"Depreciación acumulada de equipo de cómputo",ACTIVO NO CIRCULANTE,0.0
+1.03.01,"Derechos de autor",ACTIVO NO CIRCULANTE - INTANGIBLE,0.0
+1.03.02,"Patentes",ACTIVO NO CIRCULANTE - INTANGIBLE,0.0
+1.03.03,"Marcas y nombres comerciales",ACTIVO NO CIRCULANTE - INTANGIBLE,0.0
+1.03.04,"Crédito mercantil",ACTIVO NO CIRCULANTE - INTANGIBLE,0.0
+1.03.05,"Gastos preoperativos",ACTIVO NO CIRCULANTE - INTANGIBLE,0.0
+1.03.06,"Franquicias",ACTIVO NO CIRCULANTE - INTANGIBLE,0.0
+1.03.07,"Gastos de constitución",ACTIVO NO CIRCULANTE - INTANGIBLE,0.0
+1.04.01,"Fondos a largo plazo",ACTIVO NO CIRCULANTE,0.0
+1.04.02,"Cuentas por cobrar a largo plazo",ACTIVO NO CIRCULANTE,0.0
+1.04.03,"Pagos anticipados a largo plazo",ACTIVO NO CIRCULANTE,0.0
+1.04.04,"Depósitos en garantía",ACTIVO NO CIRCULANTE,0.0
+2.01.01,"Proveedores",PASIVO A CORTO PLAZO,0.0
+2.01.02,"Acreedores",PASIVO A CORTO PLAZO,0.0
+2.01.03,"Documentos por pagar",PASIVO A CORTO PLAZO,0.0
+2.01.04,"Acreedores bancarios a corto plazo",PASIVO A CORTO PLAZO,0.0
+2.01.05,"Anticipo de clientes",PASIVO A CORTO PLAZO,0.0
+2.01.06,"Dividendos por pagar",PASIVO A CORTO PLAZO,0.0
+2.01.07,"IVA por pagar",PASIVO A CORTO PLAZO,0.0
+2.01.08,"Impuestos y derechos por pagar",PASIVO A CORTO PLAZO,0.0
+2.01.09,"Rentas cobradas por anticipado",PASIVO A CORTO PLAZO,0.0
+2.01.10,"Intereses cobrados por anticipado",PASIVO A CORTO PLAZO,0.0
+2.02.01,"Acreedores hipotecarios",PASIVO A LARGO PLAZO,0.0
+2.02.02,"Documentos por pagar a largo plazo",PASIVO A LARGO PLAZO,0.0
+2.02.03,"Obligaciones en circulación",PASIVO A LARGO PLAZO,0.0
+2.02.04,"Rentas cobradas por anticipado a largo plazo",PASIVO A LARGO PLAZO,0.0
+2.02.05,"Credito a banco 1500 largo plazo",PASIVO A LARGO PLAZO,0.0
+2.02.06,"Cuentas por pagar",PASIVO A LARGO PLAZO,0.0
+3.01.01,"Capital social",CAPITAL CONTRIBUIDO,0.0
+3.01.02,"Patrimonio",CAPITAL CONTRIBUIDO,0.0
+3.01.03,"Aportaciones para futuros aumentos de capital",CAPITAL CONTRIBUIDO,0.0
+3.01.04,"Prima en venta de acciones",CAPITAL CONTRIBUIDO,0.0
+3.02.01,"Utilidades integrales acumuladas",CAPITAL GANADO,0.0
+3.02.02,"Pérdidas integrales acumuladas",CAPITAL GANADO,0.0
+3.02.03,"Reservas",CAPITAL GANADO,0.0
+3.02.04,"Utilidad o pérdida del ejercicio",CAPITAL GANADO,0.0
+4.01.01,"Ventas",INGRESOS - VENTAS,0.0
+4.02.01,"Devoluciones sobre ventas",DEDUCCIONES SOBRE VENTAS,0.0
+4.02.02,"Rebajas sobre ventas",DEDUCCIONES SOBRE VENTAS,0.0
+4.03.01,"Otros ingresos",OTROS INGRESOS,0.0
+5.01.01,"Compras",COMPRAS Y COSTO DE VENTAS,0.0
+5.01.02,"Gastos de compras",COMPRAS Y COSTO DE VENTAS,0.0
+5.01.03,"Costo de ventas o costo de lo vendido",COSTO DE VENTAS,0.0
+5.02.01,"Devoluciones sobre compras",DEDUCCIONES SOBRE COMPRAS,0.0
+5.02.02,"Rebajas sobre compras",DEDUCCIONES SOBRE COMPRAS,0.0
+5.02.03,"Descuentos sobre compras",DEDUCCIONES SOBRE COMPRAS,0.0
+5.03.01,"Gastos de venta",GASTOS DE VENTA,0.0
+5.03.02,"Sueldos de jefes del departamento de ventas",GASTOS DE VENTA,0.0
+5.03.03,"Sueldos de empleados de almacén",GASTOS DE VENTA,0.0
+5.03.04,"Sueldos de vendedores de mostrador",GASTOS DE VENTA,0.0
+5.03.05,"Sueldos de choferes de reparto",GASTOS DE VENTA,0.0
+5.03.06,"Comisiones de agentes y vendedores",GASTOS DE VENTA,0.0
+5.03.07,"Seguro social del personal de ventas",GASTOS DE VENTA,0.0
+5.03.08,"Propaganda y publicidad",GASTOS DE VENTA,0.0
+5.03.09,"Etiquetas, envolturas y empaques",GASTOS DE VENTA,0.0
+5.03.10,"Fletes y acarreos de mercancías vendidas",GASTOS DE VENTA,0.0
+5.03.11,"Mantenimiento del equipo de reparto",GASTOS DE VENTA,0.0
+5.03.12,"Impuesto sobre ingresos mercantiles",GASTOS DE VENTA,0.0
+5.03.13,"Parte proporcional de alquiler del área de ventas",GASTOS DE VENTA,0.0
+5.03.14,"Parte proporcional de electricidad y teléfono del área de ventas",GASTOS DE VENTA,0.0
+5.03.15,"Depreciación del equipo de ventas y reparto",GASTOS DE VENTA,0.0
+5.04.01,"Gastos de administración",GASTOS DE ADMINISTRACIÓN,0.0
+5.04.02,"Sueldos administrativos",GASTOS DE ADMINISTRACIÓN,0.0
+5.04.03,"Seguro social del personal administrativo",GASTOS DE ADMINISTRACIÓN,0.0
+5.04.04,"Alquiler administrativo",GASTOS DE ADMINISTRACIÓN,0.0
+5.04.05,"Papelería y útiles de oficina",GASTOS DE ADMINISTRACIÓN,0.0
+5.04.06,"Servicios públicos y teléfono administrativos",GASTOS DE ADMINISTRACIÓN,0.0
+5.04.07,"Depreciación de equipo administrativo",GASTOS DE ADMINISTRACIÓN,0.0
+5.04.08,"Mantenimiento y reparaciones administrativas",GASTOS DE ADMINISTRACIÓN,0.0
+5.05.01,"Gastos financieros",GASTOS FINANCIEROS,0.0
+5.05.02,"Descuentos concedidos por pronto pago a clientes",GASTOS FINANCIEROS,0.0
+5.05.03,"Intereses pagados",GASTOS FINANCIEROS,0.0
+5.05.04,"Comisiones bancarias",GASTOS FINANCIEROS,0.0
+5.06.01,"Impuesto sobre la renta (ISR)",GASTOS POR IMPUESTOS,0.0
+5.07.01,"Otros gastos",OTROS GASTOS,0.0

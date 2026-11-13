@@ -1,0 +1,19 @@
+Codigo,Tipo,Descripcion
+1.01,ACTIVO CIRCULANTE,Activo circulante (efectivo, clientes, inventarios...)
+1.02,ACTIVO NO CIRCULANTE,Activo fijo (terrenos, edificios, equipo...)
+1.03,ACTIVO NO CIRCULANTE - INTANGIBLE,Activo intangible (patentes, marcas...)
+1.04,ACTIVO NO CIRCULANTE,Otros activos a largo plazo (depósitos, fondos...)
+2.01,PASIVO A CORTO PLAZO,Pasivo a corto plazo (proveedores, impuestos por pagar...)
+2.02,PASIVO A LARGO PLAZO,Pasivo a largo plazo (préstamos, hipotecas...)
+3.01,CAPITAL CONTRIBUIDO,Capital contribuido (capital social, aportaciones)
+3.02,CAPITAL GANADO,Capital ganado (reservas, utilidades acumuladas)
+4.01,INGRESOS - VENTAS,Ingresos por ventas
+4.02,DEDUCCIONES SOBRE VENTAS,Deducciones sobre ventas (devoluciones, rebajas)
+4.03,OTROS INGRESOS,Otros ingresos
+5.01,COMPRAS Y COSTO DE VENTAS,Compras y costo de ventas
+5.02,DEDUCCIONES SOBRE COMPRAS,Deducciones sobre compras (devoluciones, rebajas, descuentos)
+5.03,GASTOS DE VENTA,Gastos de venta
+5.04,GASTOS DE ADMINISTRACIÓN,Gastos de administración
+5.05,GASTOS FINANCIEROS,Gastos financieros (intereses, comisiones)
+5.06,GASTOS POR IMPUESTOS,Gastos por impuestos (ISR)
+5.07,OTROS GASTOS,Otros gastos
